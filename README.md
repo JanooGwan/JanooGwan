@@ -1,2 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanooGwan)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=janoogwan39)](https://solved.ac/janoogwan39/)
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOBioGUw)](https://www.git-ranker.com/ko/users/JanooGwan)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=janoogwan39)](https://solved.ac/janoogwan39/)
